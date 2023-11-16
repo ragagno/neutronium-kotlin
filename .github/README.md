@@ -69,7 +69,7 @@ You need to have a working git installation, a JVM and the Kotlin compiler.
 
 ### Usage
 
-I recommend that you developr your project in [IntelliJ](https://www.jetbrains.com/idea) as it is the best Kotlin IDE there is.
+I recommend that you developer your project in [IntelliJ](https://www.jetbrains.com/idea) as it is the best Kotlin IDE there is.
 
 If you prefer basic text editors like [JetBrains Fleet](https://www.jetbrains.com/fleet) or [Visual Studio Code](https://code.visualstudio.com), you can compile the project using the following commands.
 
